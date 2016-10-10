@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
     <fa-other></fa-other>
     <hr>
     <fa-other2></fa-other2>
+    <fa-other2></fa-other2>
 `,
   styleUrls: [`
     h1 {
